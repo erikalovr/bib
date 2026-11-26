@@ -1,4 +1,4 @@
-app = "bib-l5e-eq"
+app = "bib-l5e-er"
 primary_region = "iad"
 
 [build]
