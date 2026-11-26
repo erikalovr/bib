@@ -1,0 +1,6 @@
+# Keep repository metadata out of the image.
+.git
+.gitignore
+.github
+*.md
+LICENSE
